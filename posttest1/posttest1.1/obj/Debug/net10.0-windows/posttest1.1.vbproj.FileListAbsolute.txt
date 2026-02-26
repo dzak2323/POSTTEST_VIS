@@ -1,0 +1,16 @@
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\bin\Debug\net10.0-windows\posttest1.1.exe
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\bin\Debug\net10.0-windows\posttest1.1.deps.json
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\bin\Debug\net10.0-windows\posttest1.1.runtimeconfig.json
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\bin\Debug\net10.0-windows\posttest1.1.dll
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\bin\Debug\net10.0-windows\posttest1.1.pdb
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1._1.Form1.resources
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.vbproj.GenerateResource.cache
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.AssemblyInfoInputs.cache
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.AssemblyInfo.vb
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.vbproj.CoreCompileInputs.cache
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.dll
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\refint\posttest1.1.dll
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.pdb
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\posttest1.1.genruntimeconfig.cache
+D:\Dzaki\Semester 4\PemVis\posttest1.1\posttest1.1\obj\Debug\net10.0-windows\ref\posttest1.1.dll
